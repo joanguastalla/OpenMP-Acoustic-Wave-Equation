@@ -1,0 +1,14 @@
+600 500 100 10 500 1000 20 10 20 3
+
+xsmax 				# Source max-coordinate
+xsmin 				# Source min-coordinate
+dxs					# Source sampling
+zs0					# Source depth
+hmin                # Min offset
+hmax                # Max offset
+dxg                 # Offset sampling
+zg					# Receiver depth
+freq				# Ricker peak frequency
+ttotal				# Time of wave simulation
+
+
